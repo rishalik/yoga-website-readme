@@ -2,7 +2,7 @@
 
 A production-ready, fully responsive website built for **Krishna Raj Yoga**, a yoga studio with two branches in Electronic City, Bengaluru. Built solo as a freelance project — from requirements gathering to deployment and SEO strategy.
 
-🔗 **Live Site:** [krishnarajyoga.pages.dev](https://www.krishnarajyoga.com)
+🔗 **Live Site:** [krishnarajyoga.com](https://www.krishnarajyoga.com)
 
 ---
 
